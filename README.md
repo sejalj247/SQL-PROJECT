@@ -20,7 +20,7 @@
 
 * Question 1. <br>
  #### List all customers from USA.
-
+<https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig1.jpg> <br>
 -------------------------------------------------------------
 * Question 2. <br>
 #### Show all orders placed in 2004
