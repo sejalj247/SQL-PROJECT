@@ -20,35 +20,35 @@
 
 * Question 1. <br>
  #### List all customers from USA.<br>
-<https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig1.jpg> <br>
+<img src="https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig1.jpg"alt="Solution" width="600"> <br>
 -------------------------------------------------------------
 * Question 2. <br>
 #### Show all orders placed in 2004.<br>
-https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig2.jpg
+<img src="https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig2.jpg"alt="Solution" width="600"> <br>
 ------------------------------------------------------------
 * Question 3. <br>
 #### Show each customer with their sales representative’s name.<br>
-https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig3.jpg
+<img src="https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig3.jpg"alt="Solution" width="600"> <br>
 -------------------------------------------------------------
 * Question 4. <br>
 #### List all payments with customer name and country.<br>
-https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig4.jpg
+<img src="https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig4.jpg"alt="Solution" width="600"> <br>
 ------------------------------------------------------------
 * Question 5. <br>
 #### Show the average credit limit per country.<br>
-https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig5.jpg
+<img src="https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig5.jpg"alt="Solution" width="600"> <br>
 -------------------------------------------------------------
 * Question 6. <br>
 #### Find which employee manages the most customers.<br>
-https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig6.jpg
+<img src="https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig6.jpg"alt="Solution" width="600"> <br>
 ------------------------------------------------------------
 * Question 7. <br>
 #### Find the employee with the highest number of direct reports.<br>
-https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig7.jpg
+<img src="https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig7.jpg"alt="Solution" width="600"> <br>
 -----------------------------------------------------------
 * Question 8. <br>
 #### Find the slowest-moving products (very few orders).<br>
-https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig8.jpg
+<img src="https://github.com/sejalj247/SQL-PROJECT/blob/main/Project_Snapshot/fig8.jpg"alt="Solution" width="600"> <br>
 -----------------------------------------------------------
 
 
